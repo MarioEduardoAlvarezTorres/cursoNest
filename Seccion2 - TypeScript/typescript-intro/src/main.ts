@@ -1,8 +1,8 @@
 import './style.css'
-import { name, age , isValid } from './bases/01-types'
-import { bulbasaur } from './bases/02-objects'
+// import { name, age , isValid } from './bases/01-types'
+// import { bulbasaur } from './bases/02-objects'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
-  <h1>Hello ${ bulbasaur.name }!!</h1>
+  <h1>Hello Vite !!!</h1>
 `
 
