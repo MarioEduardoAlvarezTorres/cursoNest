@@ -1,0 +1,3 @@
+[submodule "dealership"]
+	path = dealership
+	url = https://github.com/MarioEduardoAlvarezTorres/dealership.git
