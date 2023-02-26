@@ -33,10 +33,10 @@ Teslo es un proyecto que simula ser una tienda de ropa en línea, dentro de este
 -	Manejo de errores
 -	BeforeInsert y beforeUpdate
 -	Uso de QueryBuilder
-•	implementación de relaciones con TypeORM
-•	Carga de Archivos
-•	Uso de JwtStrategy
-•	Uso de Rutas Privadas
-•	Encriptación de contraseñas con bcrypt
-•	Documentación del API
+-	implementación de relaciones con TypeORM
+-	Carga de Archivos
+-	Uso de JwtStrategy
+-	Uso de Rutas Privadas
+-	Encriptación de contraseñas con bcrypt
+-	Documentación del API
 
