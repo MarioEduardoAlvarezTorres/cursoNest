@@ -1,3 +1,6 @@
 [submodule "dealership"]
 	path = dealership
 	url = https://github.com/MarioEduardoAlvarezTorres/dealership.git
+[submodule "pokedex-nestjs"]
+	path = pokedex-nestjs
+	url = https://github.com/MarioEduardoAlvarezTorres/pokedex-nestjs.git
